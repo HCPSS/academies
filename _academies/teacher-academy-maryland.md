@@ -14,6 +14,7 @@ electives: yes
 certifications: yes
 prerequisites: yes
 college-credit: yes
+senior-coursework: no
 ---
 
 The Teacher Academy of Maryland is designed for students who want to explore a career as an elementary, middle or high school, teacher. Students in the academy, have the opportunity to conduct formal observations, develop and deliver lesson plans in a K-12 setting, and participate in special events and activities. Academy coursework focuses on development, learning theory, positive and effective classroom management and discipline, curriculum delivery models, and the creation of developmentally-appropriate curriculum and learning environments.

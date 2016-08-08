@@ -25,12 +25,12 @@ layout: default
 {% endif %}
 </div>
 <div class="thirds">
-<h2 style="width: 90%; padding-top: 0px; border-bottom: 1px solid rgba(51, 51, 51, 0.2); display: inline-block; font-size: 1.4em; margin-bottom: 0.58333em;"><i class="fa fa-calendar fa-2" style="color: #7DC254;"></i> Grades</h2>
+<h2 style="width: 90%; padding-top: 0px; border-bottom: 1px solid rgba(51, 51, 51, 0.2); display: inline-block; font-size: 1.4em; margin-bottom: 0.58333em;"><i class="fa fa-child" aria-hidden="true" style="color: #7DC254;"></i> Grades</h2>
 <p><span style="text-align: center;font-weight: 500; font-size:64px;"> {{ page.grades }} </span></p>
 {% include /curriculum/{{ page.slug }}.html %}
 </div>
 <div class="thirds">
-<h2 style="width: 90%; padding-top: 0px; border-bottom: 1px solid rgba(51, 51, 51, 0.2); display: inline-block; font-size: 1.4em; margin-bottom: 0.58333em;"><i class="fa fa-calendar fa-2" style="color: #7DC254;"></i> Related Academies</h2>
+<h2 style="width: 90%; padding-top: 0px; border-bottom: 1px solid rgba(51, 51, 51, 0.2); display: inline-block; font-size: 1.4em; margin-bottom: 0.58333em;"><i class="fa fa-exchange" aria-hidden="true" style="color: #7DC254;"></i></i> Related Academies</h2>
 <!-- <p><span style="font-weight: 500; font-size:18px;">{% for topics in page.topics %}{{ topics }}, {% endfor %}</span></p> -->
 
 <ul>
@@ -82,20 +82,20 @@ layout: default
 
 <div style="border: 1px solid #3494D2; padding: 10px; padding-left: 20px; background-color: #FFFBFF; font-size: smaller; margin-top: 2em;">
 <div class="contents">
+{% if page.senior-coursework %}
 <div class="col-left">
-
-<h2>Successful Academy Students:</h2>
-<ul>
-<li>Maintain a C average in all academy coursework</li>
-<li>Complete a senior level coursework through a work-site experience (students must provide their own transportation)<br>
-<strong>OR</strong> by participating in the on-campus (ARL) course of advanced skills, which includes a capstone project</li>
-</ul>
-
+{% endif %}
+  <h2>Successful Academy Students:</h2>
+    {% include /successful-academy-students/{{ page.slug }}.html %}
+{% if page.senior-coursework %}
 </div>
+{% endif %}
+{% if page.senior-coursework %}
 <div class="col-right">
   <h2>Senior Level Coursework Requirements:</h2>
     {% include /senior-coursework/{{ page.slug }}.html %}
 </div>
+{% endif %}
 </div>
 </div>
 

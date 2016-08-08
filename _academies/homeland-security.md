@@ -14,6 +14,7 @@ electives: yes
 certifications: yes
 prerequisites: no
 college-credit: yes
+senior-coursework: no
 ---
 
 The Homeland Security and Emergency Management Academy outlines how the local, state, and federal government prepares for, responds to, and recovers from natural and human-caused emergencies in our ever-changing world. Students learn to use and become certified in Geographical Information Systems to apply to real-world emergency management scenarios. Students demonstrate various modes of communication, problem solving, and team building while exploring the multitude of career opportunities provided by homeland security and emergency management.
