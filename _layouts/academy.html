@@ -37,8 +37,10 @@ layout: default
   {% for academy in site.academies %}
     {% for topic in academy.topics %}
       {% for page-topic in page.topics %}
-        {% if topic == page-topic %}
-      <li><a href="{{ site.baseurl }}/academy/{{ academy.slug | xml_escape }}/">{{ academy.title }}</a></li>
+        {% if academy.title == page.title %}
+          {% continue %} 
+        {% elsif topic == page-topic %}
+          <li><a href="{{ site.baseurl }}/academy/{{ academy.slug | xml_escape }}/">{{ academy.title }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}
