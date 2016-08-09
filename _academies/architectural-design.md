@@ -14,6 +14,7 @@ topics:
 electives: yes
 certifications: no
 prerequisites: yes
+college-credit: yes
 senior-coursework: no
 ---
 
