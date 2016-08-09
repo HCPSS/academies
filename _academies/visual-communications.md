@@ -15,7 +15,7 @@ electives: yes
 certifications: yes
 prerequisites: yes
 college-credit: yes
-senior-path: yes
+pathways: yes
 senior-coursework: yes
 ---
 
