@@ -12,7 +12,7 @@ topics:
   - Security
 electives: yes
 certifications: yes
-prerequisites: no
+prerequisites: yes
 college-credit: yes
 senior-coursework: no
 ---
