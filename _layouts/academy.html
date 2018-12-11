@@ -19,9 +19,11 @@ layout: default
 <p><strong>Applications and Research Laboratory (ARL)</strong><br />
  10920 Clarksville Pike<br />
  Ellicott City, MD 21042</p>
-{% else %}
+{% elsif page.location == "high school" %}
 <p><strong>Your current school</strong><br />
  Depending on interest and enrollment, this academy may be offered at your home school. Contact your school's guidance counselor for more information.</p>
+{% else %}
+  <p><strong>{{ page.location }}</strong></p>
 {% endif %}
 </div>
 <div class="thirds">
@@ -51,7 +53,6 @@ layout: default
 {% endif %}
 {% if page.certifications %}
   <div class="thirds">
-    <h2 style="width: 90%; padding-top: 0px; border-bottom: 1px solid rgba(51, 51, 51, 0.2); display: inline-block; font-size: 1.4em; margin-bottom: 0.58333em;"><i class="fa fa-certificate fa-2" style="color: #7DC254;"></i>  Certifications</h2>
     {% include /certifications/{{ page.slug }}.html %}
   </div>
 {% endif %}
