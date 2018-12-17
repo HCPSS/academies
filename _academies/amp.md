@@ -24,6 +24,6 @@ The STEM-related occupations include those in:
 - Construction and Design 
 - Banking and Finance 
 
-Students interview with Department of Labor, Licensing and Regulation (DLLR) for an opportunity to participate in a paid supervised, structured, on-the-job training program.
+Students interview with Department of Labor, Licensing and Regulation (DLLR) approved employers for an opportunity to participate in a paid supervised, structured, on-the-job training program.
 
 <a href="#ap-business">View additional information for Business Owners &darr;</a>
