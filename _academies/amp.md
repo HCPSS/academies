@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Apprenticeship Maryland Program (AMP)
+title: Apprenticeship Maryland
 sort_name: Apprenticeship
 sidebar_view: no
 location: Varies by apprenticeship placement.
@@ -15,7 +15,7 @@ prerequisites: no
 senior-coursework: no
 ---
 
-AMP is a graduation pathway for <strong>seniors</strong>, who are interested in employment and further education based on a career pathway in manufacturing, Science, Technology, Engineering, and Mathematics (STEM) industries.
+Apprenticeship Maryland is a graduation pathway for <strong>seniors</strong>, who are interested in employment and further education based on a career pathway in manufacturing, Science, Technology, Engineering, and Mathematics (STEM) industries.
 
 The STEM-related occupations include those in:
 
