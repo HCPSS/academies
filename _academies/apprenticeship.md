@@ -7,6 +7,7 @@ location: Varies by apprenticeship placement.
 grades: 12
 questions: Interested in a STEM-related career? Do you want to "earn while you learn"?
 photo:
+video: 326849586
 topics:
   - Business
 electives: yes
@@ -19,9 +20,9 @@ Apprenticeship Maryland is a graduation pathway for <strong>seniors</strong>, wh
 
 The STEM-related occupations include those in:
 
-- Banking and Finance 
-- Construction and Design 
-- Information Technology 
+- Banking and Finance
+- Construction and Design
+- Information Technology
 - Manufacturing
 
 Students interview with Department of Labor, Licensing and Regulation (DLLR) approved employers for an opportunity to participate in a paid supervised, structured, on-the-job training program.
