@@ -7,7 +7,7 @@ location: ARL
 grades: 11-12
 questions: Are you interested in how the systems in your home work? Are you mechanically minded? Do you like working with cool tools? Do you like to troubleshoot and solve problems?
 photo:
-video:
+video: "332509318"
 topics:
   - Construction
   - Engineering
