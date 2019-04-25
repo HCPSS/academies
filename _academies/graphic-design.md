@@ -7,7 +7,7 @@ location: ARL
 grades: 11-12
 questions: Are you motivated by strong graphic design? Do you enjoy designing your own logos, digital posters, brochures, commercials and graphics?
 photo:
-video: '174247228'
+video: "332513629"
 topics:
   - Media
   - Technology
