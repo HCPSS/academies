@@ -18,13 +18,14 @@ senior-coursework: no
 
 Apprenticeship Maryland is a graduation pathway for <strong>seniors</strong>, who are interested in employment and further education based on a career pathway in manufacturing, Science, Technology, Engineering, and Mathematics (STEM) industries.
 
-The occupations include those in:
+Occupations and paperwork are separated into the following categories:
 
-- [Construction and Development](https://docs.google.com/document/d/1WTgrTrF-DVRzp-lR4gts8CMun1W11eu5rYU2shFY2Bc/#heading=h.vgqai6594hxj)
-- [Environmental, Agricultural and Natural Resources](https://docs.google.com/document/d/1WTgrTrF-DVRzp-lR4gts8CMun1W11eu5rYU2shFY2Bc/#heading=h.ss5noo5el934)
-- [Human Resource Services](https://docs.google.com/document/d/1WTgrTrF-DVRzp-lR4gts8CMun1W11eu5rYU2shFY2Bc/#heading=h.63lr7k4bsksb)
-- [Information Technology](https://docs.google.com/document/d/1WTgrTrF-DVRzp-lR4gts8CMun1W11eu5rYU2shFY2Bc/#heading=h.2mhnx0dguw5a)
-- [Transportation Technologies](https://docs.google.com/document/d/1WTgrTrF-DVRzp-lR4gts8CMun1W11eu5rYU2shFY2Bc/#heading=h.f1bv1wyz35wc)
+- [Construction and Development](/f/img/apprenticeship-maryland-construction.pdf)
+- [Environmental, Agricultural and Natural Resources](/f/img/apprenticeship-maryland-agriculture.pdf)
+- [Hospitality, and Consumer Services](/f/img/apprenticeship-maryland-hospitality.pdf)
+- [Human Resource Services](/f/img/apprenticeship-maryland-human-resources.pdf)
+- [Information Technology](/f/img/apprenticeship-maryland-it.pdf)
+- [Transportation Technologies](/f/img/apprenticeship-maryland-transportation.pdf)
 
 Students interview with Department of Labor, Licensing and Regulation (DLLR) approved employers for an opportunity to participate in a paid supervised, structured, on-the-job training program.
 
