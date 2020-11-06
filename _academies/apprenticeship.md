@@ -22,7 +22,7 @@ Occupations and paperwork are separated into the following categories:
 
 - [Construction and Development](/f/img/apprenticeship-maryland-construction.pdf)
 - [Environmental, Agricultural and Natural Resources](/f/img/apprenticeship-maryland-agriculture.pdf)
-- [Hospitality, and Consumer Services](/f/img/apprenticeship-maryland-hospitality.pdf)
+- [Hospitality and Consumer Services](/f/img/apprenticeship-maryland-hospitality.pdf)
 - [Human Resource Services](/f/img/apprenticeship-maryland-human-resources.pdf)
 - [Information Technology](/f/img/apprenticeship-maryland-it.pdf)
 - [Transportation Technologies](/f/img/apprenticeship-maryland-transportation.pdf)
