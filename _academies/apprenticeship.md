@@ -22,11 +22,9 @@ Occupations and paperwork are separated into the following categories:
 
 - [Construction and Development](/f/img/apprenticeship-maryland-construction.pdf)
 - [Environmental, Agricultural and Natural Resources](/f/img/apprenticeship-maryland-agriculture.pdf)
-- [Hospitality and Consumer Services](/f/img/apprenticeship-maryland-hospitality.pdf)
 - [Human Resource Services](/f/img/apprenticeship-maryland-human-resources.pdf)
-- [Information Technology](/f/img/apprenticeship-maryland-it.pdf)
 - [Transportation Technologies](/f/img/apprenticeship-maryland-transportation.pdf)
 
-Students interview with Department of Labor, Licensing and Regulation (DLLR) approved employers for an opportunity to participate in a paid supervised, structured, on-the-job training program.
+Students interview with Maryland Department of Labor (DOL) approved employers for an opportunity to participate in a paid supervised, structured, on-the-job training program.
 
 <a href="#ap-business">View additional information for Business Owners &darr;</a>
