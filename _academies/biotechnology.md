@@ -13,7 +13,7 @@ topics:
   - Health
   - Technology
 electives: yes
-certifications: no
+certifications: yes
 prerequisites: yes
 college-credit: yes
 senior-coursework: yes

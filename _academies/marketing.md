@@ -7,7 +7,7 @@ location: high school
 grades: 10-12
 questions: Can you communicate clearly and concisely both verbally and in writing? Are you able to recognize problems and devise an appropriate plan of action?
 photo:
-video: "256657990"
+video: "583443366"
 topics:
   - Media
   - Technology

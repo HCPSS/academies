@@ -7,7 +7,7 @@ location: Army JROTC is offered at Atholton High School and Howard High School. 
 grades: 9-12
 questions: Interested in leadership and essential life and career skills instruction, activities, and opportunities?
 photo:
-video:
+video: "597291081"
 topics:
   - Leadership
 electives: no
