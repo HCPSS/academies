@@ -9,11 +9,9 @@ layout: default
 {% if page.video %}
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/{{ page.video }}' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 {% endif %}
-
 {% if page.photo %}
-<p style="width: 70%; margin: auto;"><img class="shadow-smaller" src="/img/{{ page.photo }}"alt="{{ page.photo-alt }}"></p>
+<p style="width: 70%; margin: auto;"><img class="shadow-smaller" src="/f/img/{{ page.photo }}"alt="{{ page.photo-alt }}"></p>
 {% endif %}
-
 <div style="font-size: larger; font-weight: 300;">{{ content }}</div>
 
 <div class="section content-trending group" style="margin-top: 2em; margin-bottom: 2em;">
