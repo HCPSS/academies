@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Cybersecurity Networking
+title: Cybersecurity Networking Academy
 sort_name: Cybersecurity Networking
 sidebar_view: no
 location: ARL

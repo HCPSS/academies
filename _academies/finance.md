@@ -10,8 +10,8 @@ photo:
 video: "583443343"
 topics:
   - Business
-electives: yes
-certifications: no
+electives: no
+certifications: yes
 prerequisites: yes
 college-credit: no
 senior-coursework: no

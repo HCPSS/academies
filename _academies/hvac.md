@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Heating, Ventilating, Air Conditioning (HVAC)
+title: Heating, Ventilating, Air Conditioning (HVAC) Academy
 sort_name: Heating, Ventilating, Air Conditioning (HVAC)
 sidebar_view: no
 location: ARL
@@ -11,7 +11,7 @@ video: "332509318"
 topics:
   - Construction
   - Engineering
-electives: yes
+electives: no
 certifications: yes
 prerequisites: yes
 college-credit: yes
@@ -19,4 +19,4 @@ pathways: no
 senior-coursework: yes
 ---
 
-The HVAC Academy students will explore a variety of construction trade areas such as carpentry, plumbing, electrical and management. Students use project management skills to learn about design and construction of various types of buildings and use those skills to build a scale model house and other creative projects. Students will also learn about career opportunities, apprenticeships and continuing education requirements to enter construction trade and management careers.
+The HVAC Career Academy provides a comprehensive understanding of the HVAC industry, covering residential, commercial, and industrial markets. It explores various segments like engineering, manufacturing, distribution, mechanical contracting, and education, highlighting how HVAC systems enhance comfort, product quality, and efficiency. 

@@ -1,10 +1,10 @@
 ---
 layout: academy
-title: Computer Programming
+title: Computer Programming Academy
 sort_name: Computer Programming
 sidebar_view: no
 location: high school
-grades: 10-12
+grades: 9-12
 questions: Have you always loved computers? Do you enjoy activities that require a lot of thinking and planning?
 photo:
 video: "256658079"
@@ -12,9 +12,9 @@ topics:
   - Engineering
   - Technology
 electives: yes
-certifications: no
+certifications: yes
 prerequisites: yes
-college-credit: no
+college-credit: yes
 senior-coursework: no
 ---
 

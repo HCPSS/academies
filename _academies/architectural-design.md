@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Architectural Design
+title: Architectural Design Academy
 sort_name: Architectural Design
 sidebar_view: no
 location: ARL
@@ -11,7 +11,7 @@ video: '291728263'
 topics:
   - Engineering
   - Construction
-electives: yes
+electives: no
 certifications: yes
 prerequisites: yes
 college-credit: yes

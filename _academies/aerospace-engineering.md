@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: "Aerospace Engineering Academy"
+title: "Project Lead The Way (PLTW) Aerospace Engineering Academy"
 sort_name: Aerospace Engineering
 ptlw: Yes
 sidebar_view: no
@@ -19,4 +19,4 @@ college-credit: yes
 senior-coursework: no
 ---
 
-The Aerospace Academy: Project Lead the Way (PLTW) provides students with the opportunity to apply the engineering design process through coursework and hands-on learning. This program offers students a sequence of courses which when combined with traditional mathematics and science courses, introduces them to the scope, rigor and discipline of aerospace engineering prior to entering college. Students will become proficient with computer modeling software which will enable them to study and apply the engineering design process. Ultimately, students will create, analyze, and communicate real-world product solution models, preparing them for a career with extensive possibilities.
+The Project Lead the Way (PLTW) Aerospace Engineering Academy provides students with the opportunity to apply the engineering design process through coursework and hands-on learning. This program offers students a sequence of courses which when combined with traditional mathematics and science courses, introduces them to the scope, rigor and discipline of aerospace engineering prior to entering college. Students will become proficient with computer modeling software which will enable them to study and apply the engineering design process. Ultimately, students will create, analyze, and communicate real-world product solution models, preparing them for a career with extensive possibilities.

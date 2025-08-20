@@ -11,11 +11,11 @@ video: "597291081"
 topics:
   - Leadership
 electives: no
-certifications: yes
+certifications: no
 prerequisites: yes
 senior-coursework: no
 ---
 
-The Junior Reserve Officers’ Training Corps (JROTC) provides a citizenship, character, and leadership development program for high school students. It is a cooperative effort between Howard County Public School System, the U.S. Army and U.S. Air Force. JROTC instruction prepares students in grades 9-12 for leadership roles while making them aware of their rights, responsibilities, and privileges, as American citizens through rigorous instruction and hands-on activities.
+The Junior Reserve Officers’ Training Corps (JROTC) provides a citizenship, character, and leadership development program for high school students. It is a cooperative effort between Howard County Public School System, the U.S. Army and U.S. Air Force. JROTC instruction prepares students in grades 9-12 for leadership roles while making them aware of their rights, responsibilities, and privileges, as American citizens through rigorous instruction and hands-on activities. JROTC prepares students for life and there is no obligation to join the military.
 
 A student who wishes to participate in the JROTC program, but does not attend one of the schools that offers the program, may apply to the JROTC program at Atholton High School, Howard High School, and/or Oakland Mills High School. Each school has a limited number of spaces available for students who apply.

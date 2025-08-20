@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Graphic Design
+title: Graphic Design Academy
 sort_name: Graphic Design
 sidebar_view: no
 location: ARL

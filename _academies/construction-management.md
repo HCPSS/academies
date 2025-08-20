@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Construction
+title: Construction Academy
 sort_name: Construction
 sidebar_view: no
 location: ARL
@@ -11,7 +11,7 @@ video: "583443323"
 topics:
   - Construction
   - Engineering
-electives: yes
+electives: no
 certifications: yes
 prerequisites: yes
 college-credit: yes

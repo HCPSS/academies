@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: "Civil Engineering: Project Lead the Way"
+title: "Project Lead The Way (PLTW) Civil Engineering Academy"
 sort_name: Civil Engineering
 ptlw: Yes
 sidebar_view: no

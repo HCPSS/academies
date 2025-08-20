@@ -4,7 +4,7 @@ title: Teacher Academy of Maryland
 sort_name: Teacher Academy of Maryland
 sidebar_view: no
 location: high school
-grades: 10-12
+grades: 9-12
 questions: Are you one of those creative and passionate people who will change children's lives? Are you excited at the idea of instilling a love of learning?
 photo:
 video: "583443392"

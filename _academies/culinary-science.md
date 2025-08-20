@@ -1,10 +1,10 @@
 ---
 layout: academy
-title: Culinary Science
+title: Culinary Sciences Academy
 sort_name: Culinary Science
 sidebar_view: no
 location: high school
-grades: 10-12
+grades: 9-12
 questions: Are you creative in the kitchen? Do you enjoy working as part of a team?
 photo:
 video: "127194582"

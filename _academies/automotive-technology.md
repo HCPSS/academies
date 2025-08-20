@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Automotive Technology
+title: Automotive Technology Academy
 sort_name: Automotive Technology
 sidebar_view: no
 location: ARL

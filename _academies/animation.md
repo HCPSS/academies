@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Animation and Interactive Media
+title: Animation and Interactive Media Academy
 sort_name: Animation and Interactive Media
 sidebar_view: no
 location: ARL

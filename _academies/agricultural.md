@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Agricultural Science
+title: Agricultural Sciences Academy
 sort_name: Agricultural Science
 sidebar_view: no
 location: ARL

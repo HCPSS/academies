@@ -4,7 +4,7 @@ title: Accounting Academy
 sort_name: Accounting
 sidebar_view: no
 location: high school
-grades: 10-12
+grades: 9-12
 questions: Do you love numbers? Do you enjoy analyzing facts and figures?
 photo:
 video: "583443244"
@@ -13,6 +13,7 @@ topics:
 electives: yes
 certifications: no
 prerequisites: yes
+college-credit: yes
 senior-coursework: no
 ---
 

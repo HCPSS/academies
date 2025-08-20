@@ -1,6 +1,6 @@
 ---
 layout: academy
-title: Computer Science
+title: Computer Science Academy
 sort_name: Computer Science
 sidebar_view: no
 location: high school

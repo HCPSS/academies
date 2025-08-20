@@ -4,15 +4,15 @@ title: Business Management Academy
 sort_name:  Business Management
 sidebar_view: no
 location: high school
-grades: 10-12
+grades: 9-12
 questions:
 photo:
 video:
 topics:
   - Business
 electives: no
-certifications: yes
-prerequisites: no
+certifications: no
+prerequisites: yes
 college-credit: yes
 senior-coursework: no
 ---
