@@ -3,7 +3,7 @@ layout: academy
 title: Academy of Health Professions
 sort_name: Health Professions
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Would you like to work in a career field that could have a positive influence on someone's life? Do you like working in dynamic, fast-paced environments?
 photo:

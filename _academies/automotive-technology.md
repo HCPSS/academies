@@ -3,7 +3,7 @@ layout: academy
 title: Automotive Technology Academy
 sort_name: Automotive Technology
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Do you like working with your hands to problem solve and repair automobiles? Do you want to learn about the latest automotive technologies, such as solar-powered vehicles and hybrids?
 photo:

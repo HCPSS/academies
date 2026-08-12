@@ -3,7 +3,7 @@ layout: academy
 title: Architectural Design Academy
 sort_name: Architectural Design
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Have you dreamed of designing buildings, bridges or parks? Are you interested in discovering the broad range of career possibilities in the field of architecture?
 photo:

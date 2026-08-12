@@ -3,7 +3,7 @@ layout: academy
 title: Animation and Interactive Media Academy
 sort_name: Animation and Interactive Media
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Have you ever wanted to design your own animations, live action films, or video games? Do you enjoy creating your own characters, stories, and games?
 photo:

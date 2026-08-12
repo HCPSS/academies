@@ -3,7 +3,7 @@ layout: academy
 title: Systems And Project Engineering
 sort_name: Systems And Project Engineering
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Did you ever wonder who designed the Segway? Are you curious who created the robotic arms used in the space station?
 photo:

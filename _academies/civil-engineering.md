@@ -4,7 +4,7 @@ title: "Project Lead The Way (PLTW) Civil Engineering Academy"
 sort_name: Civil Engineering
 ptlw: Yes
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions:
 photo:

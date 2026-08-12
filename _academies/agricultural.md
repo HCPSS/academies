@@ -3,7 +3,7 @@ layout: academy
 title: Agricultural Sciences Academy
 sort_name: Agricultural Science
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Do you have a green thumb? Do you like working with plants and animals? Do you enjoy working outside?
 photo:

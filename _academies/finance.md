@@ -3,7 +3,7 @@ layout: academy
 title: Academy of Finance
 sort_name: Finance
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Do you see yourself as an innovative entrepreneur? Would you like to work in a financial career that helps people and businesses manage their money and invest in the stock market?
 photo:

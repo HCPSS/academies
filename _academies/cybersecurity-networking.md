@@ -3,7 +3,7 @@ layout: academy
 title: Cybersecurity Networking Academy
 sort_name: Cybersecurity Networking
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Would you like to solve cyber crimes such as identity theft? Would you like to learn how computer networks are created? Are you curious about how computers work inside?
 photo:

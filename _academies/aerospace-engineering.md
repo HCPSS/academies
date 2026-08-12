@@ -4,7 +4,7 @@ title: "Project Lead The Way (PLTW) Aerospace Engineering Academy"
 sort_name: Aerospace Engineering
 ptlw: Yes
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Are you interested in learning more about planes, spacecraft, satellites and missiles? Do you thrive in a fast-paced environment?
 photo:

@@ -3,7 +3,7 @@ layout: academy
 title: Graphic Design Academy
 sort_name: Graphic Design
 sidebar_view: no
-location: ARL
+location: CTEC
 grades: 11-12
 questions: Are you motivated by strong graphic design? Do you enjoy designing your own logos, digital posters, brochures, commercials and graphics?
 photo:
